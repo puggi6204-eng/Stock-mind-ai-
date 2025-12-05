@@ -1,0 +1,7 @@
+{
+  "name": "StockSage AI",
+  "description": "An advanced, all-in-one stock market assistant powered by Gemini. Features real-time analysis, deep reasoning, live voice consultation, and visual market data.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
